@@ -5,7 +5,7 @@
 
 1. Just Run the "MAKE" instruction on Terminal.
 2. Run LostPath excution file.
-# license
+# License
  Gtk2.0 , cairo
 # How to Play 
 
@@ -17,3 +17,7 @@ GOAL -> Find the way to go out!
 # Video
 
 https://youtu.be/SoV8WPn1XZ0
+
+# Code
+
+https://github.com/operatos/LostPath-GamePJT
