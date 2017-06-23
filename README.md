@@ -1,9 +1,11 @@
 # LostPath-GamePJT
+ Written in C Using Gtk2.0
+   
+# How to Install & Execute
 
-# How to Install
+1. Just Run the "MAKE" instruction on Terminal.
+2. Run LostPath excution file.
 
-Just Run the "MAKE" instruction.
- 
 # How to Play 
 
 Move Key -> UP DOWN LEFT RIGHT
