@@ -2,7 +2,6 @@
  
 # How to Play 
 
-
 Move Key -> UP DOWN LEFT RIGHT
 GOAL -> Find the way to go out!
 
