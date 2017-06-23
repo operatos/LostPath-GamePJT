@@ -1,4 +1,8 @@
 # LostPath-GamePJT
+
+# How to Install
+
+Just Run the "MAKE" instructions.
  
 # How to Play 
 
