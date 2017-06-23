@@ -2,7 +2,7 @@
 
 # How to Install
 
-Just Run the "MAKE" instructions.
+Just Run the "MAKE" instruction.
  
 # How to Play 
 
