@@ -5,7 +5,8 @@
 
 1. Just Run the "MAKE" instruction on Terminal.
 2. Run LostPath excution file.
-
+# license
+ Gtk2.0 , cairo
 # How to Play 
 
 Move Key -> UP DOWN LEFT RIGHT
