@@ -18,6 +18,4 @@ GOAL -> Find the way to go out!
 
 https://youtu.be/SoV8WPn1XZ0
 
-# Code
 
-https://github.com/operatos/LostPath-GamePJT
